@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-authentication-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mwerneck1956/nodejs-authentication-service.git",
+  "author": "matheus <werneckmatheus12@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.2",
+    "nodemon": "^2.0.12",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
