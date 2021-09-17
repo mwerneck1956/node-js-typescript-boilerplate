@@ -1,1 +1,1 @@
-# nodejs-authentication-service
+# A simple boilerplate to build projects with node+ts
